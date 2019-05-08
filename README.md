@@ -32,6 +32,7 @@
 
 ## demo.rar-------简单版本(只有listview页面、添加备忘录页面、item页面，仅仅只有颜色优化)
 【Android Studio版本 3.3.4】
+
 ![image](https://github.com/ACG-Q/demo/blob/master/img/1.png?raw=true)
 ![image](https://github.com/ACG-Q/demo/blob/master/img/2.png?raw=true)
 ![image](https://github.com/ACG-Q/demo/blob/master/img/3.png?raw=true)
