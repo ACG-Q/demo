@@ -32,10 +32,10 @@
 
 ## demo.rar-------简单版本(只有listview页面、添加备忘录页面、item页面，仅仅只有颜色优化)
 【Android Studio版本 3.3.4】
-![image](https://github.com/ACG-Q/demo/tree/master/img/1.png)
-![image](https://github.com/ACG-Q/demo/tree/master/img/2.png)
-![image](https://github.com/ACG-Q/demo/tree/master/img/3.png)
-![image](https://github.com/ACG-Q/demo/tree/master/img/4.png)
+![image](https://github.com/ACG-Q/demo/blob/master/img/1.png?raw=true)
+![image](https://github.com/ACG-Q/demo/blob/master/img/2.png?raw=true)
+![image](https://github.com/ACG-Q/demo/blob/master/img/3.png?raw=true)
+![image](https://github.com/ACG-Q/demo/blob/master/img/4.png?raw=true)
 ## demo2.rar------升级版（半成品，添加关于页面、添加首页获取公历星期几的textview、修改页面跳转动画-并不完全、按钮优化、listview优化）
 1.listview添加按钮【[待办]、[办完]】--半成品【添加后，listview失去选中状态，无法进行删除、编辑】
 2.提醒功能--未添加
